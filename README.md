@@ -8,3 +8,5 @@ What is the smallest positive number that is evenly divisible by all of the numb
 
 ## Lowest Common Mulitple calculation
 [LCM Calculation](https://www.math.toronto.edu/mathnet/questionCorner/lcm.html)  
+* Step #1 prime factorisation 2=2 3=3 4=2x2 5=5 6= 2x3 7=7 8= 2 x 4 9 = 3 x 3 10 = 5 x2 
+Ans  = (2^2)
