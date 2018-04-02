@@ -12,6 +12,7 @@ What is the smallest positive number that is evenly divisible by all of the numb
 Answer : 2=2 3=3 4=2x2 5=5 6=2x3 7=7 *8=2x2x2* *9=3x3* 10= 5x2 
 
 Step #2 : Identifiy the most common factorisation number 
-2^{2}$
+
+$2^{2}$
 
 Ans = 2570
